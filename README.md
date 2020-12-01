@@ -14,6 +14,4 @@ In Task 2, we are told that there are 3 trial stores that have gone through a 3-
 
 
 # Task 3 - Analytics and commercial application
-Use analytics and insights from Task 1 and 2 to prepare a report for the client, the Category Manager.
-
-Used Pyramid Principle method to deliver insigths and recommendation to client in Powerpoint.
+In Task 3, we used analytics and insights from Task 1 and 2 to prepare a report for the client, the Category Manager. We have also used Pyramid Principle method to deliver insigths and recommendation to client in Powerpoint.
